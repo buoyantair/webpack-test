@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(10deg, coral, orchid);
+  display: block;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+pre {
+  margin: 1em;
+}
